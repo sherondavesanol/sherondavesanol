@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sherondavesanol
 - 👀 Interested in Front-end Web Development
-- 🌱 Currently learning Javascript frameworks
+- 🌱 Currently learning back-end technologies
 - 📫 sherondavesanol@gmail.com
 
 <!---
