@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @sherondavesanol
-- 👀 Front-end Developer
-- 🌱 UI/UX Designer
-- 📫 sdssanol@gmail.com
+Full-Stack Web Developer | UX Designer | React.js 
